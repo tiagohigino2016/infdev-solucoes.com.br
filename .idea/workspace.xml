@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="614081d1-8843-4a64-b41d-0c11a48a3968" name="Default" comment="" />
+    <list default="true" id="614081d1-8843-4a64-b41d-0c11a48a3968" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="infdev-solucoes.com.br.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -175,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1466653966481</updated>
       <workItem from="1466653968171" duration="1258000" />
-      <workItem from="1466658070018" duration="280000" />
+      <workItem from="1466658070018" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="Página de &quot;Em breve&quot; anunciando uma nova empresa no ramo de tecnologia da informação.">
       <created>1466657992421</created>
@@ -188,7 +190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1538000" />
+    <option name="totallyTimeSpent" value="1761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
